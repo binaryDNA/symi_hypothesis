@@ -7,7 +7,9 @@
 # For more information, please go to 
 # http://dna.mitsinikos.net
 # http://dna.mitsinikos.net/symi-hypothesis
-
+#
+# The following python script requires matplotlib and generates this graph: 
+# http://dna.mitsinikos.net/wp-content/uploads/2013/10/SYMI_2m_calculations.png
 
 from pylab import *
 from math import *
